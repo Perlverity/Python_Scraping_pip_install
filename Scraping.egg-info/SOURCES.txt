@@ -1,0 +1,8 @@
+README.md
+setup.py
+Scraping/__init__.py
+Scraping/scraping_P.py
+Scraping.egg-info/PKG-INFO
+Scraping.egg-info/SOURCES.txt
+Scraping.egg-info/dependency_links.txt
+Scraping.egg-info/top_level.txt
