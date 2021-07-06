@@ -1,6 +1,8 @@
 # pip install Success!!
 
-## pip install　手順
+## pip install でライブラリインストールで
+## Webスクレイピング起動可能。
+
 ```
 pip install Scraping
 ```
