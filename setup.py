@@ -16,9 +16,9 @@ setup(
     description='pip install Success!! pip install でライブラリインストールでWebスクレイピング起動可能。',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/whatever/whatever',
+    url='https://github.com/Perlverity/Python_Scraping_pip_install',
     author='Perlverity',
-    author_email='your@address.com',
+    author_email='perlverity@gmail.com',
     license='MIT',
     keywords='sample setuptools development',
     packages=[
