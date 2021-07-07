@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: Scraping-Perlverity-Python
+Version: 1.0.0
+Summary: Awesome library
+Home-page: https://github.com/whatever/whatever
+Author: Perlverity
+Author-email: your@address.com
+License: MIT
+Description: UNKNOWN
+Keywords: sample setuptools development
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
