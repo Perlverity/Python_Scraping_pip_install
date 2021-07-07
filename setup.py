@@ -5,7 +5,7 @@ requires = ["requests>=2.14.2"]
 
 
 setup(
-    name='Scraping',
+    name='Scraping_Perlverity_Python',
     version='1.0.0',
     description='Awesome library',
     url='https://github.com/whatever/whatever',
@@ -14,7 +14,7 @@ setup(
     license='MIT',
     keywords='sample setuptools development',
     packages=[
-        "Scraping"
+        "Scraping_Perlverity_Python"
     ],
     install_requires=requires,
     classifiers=[
