@@ -1,4 +1,6 @@
 .pypirc
 build/
+lib/
 dist/
 Scraping.egg-info/
+Scraping_Perlverity_Python.egg-info/
