@@ -1,4 +1,4 @@
 .pypirc
 build/
 dist/
-Scraping.egg-info
+Scraping.egg-info/
